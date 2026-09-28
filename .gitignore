@@ -1,0 +1,13 @@
+ffmpeg/ffmpeg.exe
+
+dist/
+build/
+*.spec
+
+__pycache__/
+*.pyc
+*.pyo
+
+mp3/
+*.wav
+*.mp3
